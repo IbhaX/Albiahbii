@@ -37,7 +37,7 @@ Social
 
 
 <a href="mailto: albinantony960@gmail.com">
-    <img height="30" align="left" alt="Mail" src="]https://cdn.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg"/>
+    <img height="30" align="left" alt="Mail" src="https://cdn.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg"/>
 </a>
 
 
