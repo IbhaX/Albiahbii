@@ -1,7 +1,7 @@
 Hi, I'm Ibha-X :wave:
 ===================
 
-Python programmer, Web developer, and Data scientist.
+Python programmer, Web developer and Data scientist.
 
 Life
 ----
