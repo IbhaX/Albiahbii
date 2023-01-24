@@ -50,6 +50,9 @@ Social
     <img height="30" align="left" alt="Facebook" src="https://cdn.cdnlogo.com/logos/f/83/facebook.svg" />
 </a>
 
+<a href="https://msng.link/o/?PsYcHeDeLlO=tg">
+    <img height="30" align="left" alt="Telegram" src="https://cdn.cdnlogo.com/logos/t/39/telegram.svg" />
+</a>
 
 <a href="https://wa.link/r6v4o8">
     <img height="30" align="left" alt="WhatsApp" src="https://cdn.cdnlogo.com/logos/w/35/whatsapp-icon.svg" />
