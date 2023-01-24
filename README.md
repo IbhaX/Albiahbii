@@ -29,7 +29,7 @@ Skills
 :pick:           **Linux**, Nano, Pi, Command Line, 
 
 
-###### Learning: NodeJS, Tensorflow, AWS
+###### Learning: NodeJS, Tensorflow, Kubernetes, AWS, GCP
 ------
 
 Social
