@@ -41,7 +41,7 @@ Social
 </a>
 
 
-<a href="https://www.linkedin.com/in/albin-anthony-a76690231">
+<a href="https://www.linkedin.com/in/albin-antony-435b1b236">
     <img height="30" align="left" alt="LinkedIn" src="https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg" />
 </a>
 
