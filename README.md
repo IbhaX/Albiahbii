@@ -1,4 +1,4 @@
-Hi, I'm Ibha-X :wave:
+Hi, I'm Albin Anthony (Ibha-X) :wave:
 ===================
 
 Python programmer, Web developer and Data scientist.
