@@ -25,7 +25,7 @@ Skills
 :star:           **Requests**, **BeautifulSoup**\
 :sunglasses:     **JavaScript**, **HTML**, **CSS**\
 :paintbrush:     **Photoshop**\
-:file_folder:    **MS Office**
+:file_folder:    **MS Office**\
 :pick:           **Linux**, Nano, Pi, Command Line, 
 
 
