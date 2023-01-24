@@ -6,10 +6,12 @@ Python programmer, Web developer and Data scientist.
 Life
 ----
 
+:shipit: [**OneDataSoftwareSolution**][ods] Advanced Python Specialization\
 :shipit: [**Teachnook**][tch] Data Science.\
 :shipit: [**Avodha**][av] Djano Web Development.\
 :shipit: [**Annamalai University**][au] B.Sc Psychology. 
 
+[ods]: https://www.onedatasoftware.com/
 [tch]: https://teachnook.com/
 [av]: https://avodha.com/
 [au]: https://annamalaiuniversity.ac.in/
